@@ -143,10 +143,10 @@ Isso segue a boa prática de propagação de filtros das tabelas Dimensão em di
 
 ```text
 Produtos (1) ─────→ (N) Vendas (N) ←───── (1) Lojas
-                                                   │(1)
-                                                    ↓
-                                                   (N)
-                                              Devolução
+                          │(1)
+                          ↓
+                         (N)
+                      Devolução
 ```
 
 Considerando a direção lógica:
