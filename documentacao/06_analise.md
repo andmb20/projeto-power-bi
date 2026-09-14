@@ -1,4 +1,4 @@
-# 6. Análise exploratória
+# Análise exploratória
 
 ## 1. Objetivo
 

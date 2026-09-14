@@ -1,4 +1,4 @@
-# 7. Planejamento do Dashboard
+# Planejamento do Dashboard
 
 ## Objetivo
 
