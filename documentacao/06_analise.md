@@ -57,9 +57,9 @@ O ranking geral de unidades vendidas foi:
 
 A categoria **Moletom** apresentou o maior volume de unidades vendidas, com **59.102 unidades**, seguida por **Camisetas**, com 35.244 unidades, e **Jaquetas**, com 34.156 unidades.
 
-Na análise por estado, o Moletom foi a categoria com maior quantidade de unidades vendidas em **16 dos 17 estados analisados**.
+Na análise por estado, o Moletom foi a categoria com maior quantidade de unidades vendidas em **15 dos 17 estados analisados**.
 
-A única exceção identificada foi o estado do **Acre (AC)**, onde **Calças** apresentaram o maior volume, com **146 unidades vendidas**, contra **143 unidades de Moletom**.
+Com exceções nos estados do **Acre (AC)**, onde **Calças** apresentaram o maior volume, com **146 unidades vendidas**, contra **143 unidades de Moletom** e **Amapá (AP)** onde **Camisetas** apresentaram o maior volume, com **532 unidades vendidas**, contra **416 unidades de Moletom**
 
 Esse resultado demonstra uma forte predominância do Moletom no comportamento de vendas da base, tanto no volume geral quanto na maioria dos estados.
 
@@ -339,9 +339,9 @@ A utilização dessa medida permite analisar o **volume de unidades comercializa
 
 Os registros com categoria em branco foram mantidos identificados como dados sem classificação e não foram considerados uma categoria de produto.
 
-O principal resultado observado foi que a categoria **Moletom** apresentou o maior volume de unidades vendidas em **16 dos 17 estados analisados**.
+O principal resultado observado foi que a categoria **Moletom** apresentou o maior volume de unidades vendidas em **15 dos 17 estados analisados**.
 
-A única exceção foi o estado do **Acre (AC)**, onde **Calças** apresentaram o maior volume, com **146 unidades vendidas**, contra **143 unidades de Moletom**.
+Com exceções nos estados do **Acre (AC)**, onde **Calças** apresentaram o maior volume, com **146 unidades vendidas**, contra **143 unidades de Moletom** e **Amapá (AP)** onde **Camisetas** apresentaram o maior volume, com **532 unidades vendidas**, contra **416 unidades de Moletom**
 
 Os maiores volumes de unidades vendidas de Moletom foram observados em:
 
@@ -365,12 +365,13 @@ Durante a análise exploratória, foram identificados os seguintes pontos:
 
 ### 8.1 Predominância do Moletom
 
-A categoria **Moletom** foi a mais vendida em **16 dos 17 estados analisados**, considerando o volume de unidades comercializadas.
+A categoria **Moletom** foi a mais vendida em **15 dos 17 estados analisados**, considerando o volume de unidades comercializadas.
 
 No total da base, foram identificadas **59.102 unidades de Moletom vendidas**.
 
-### 8.2 Exceção no Acre
+### 8.2 Exceções no Acre e Amapá
 
+No estado do **AP**, a categoria mais vendida foi **Camisetas**, com **532 unidades**, contra **416 unidades de Moletom**.
 No estado do **AC**, a categoria mais vendida foi **Calças**, com **146 unidades**, contra **143 unidades de Moletom**.
 
 ### 8.3 Maior faturamento por categoria
@@ -432,6 +433,6 @@ Os principais resultados indicam:
 * **dezembro de 2021** como mês de menor faturamento, após validação da completude dos dias do mês;
 * existência de registros com informações em branco que devem ser considerados na análise de qualidade dos dados.
 
-A principal pergunta de negócio também foi respondida: **Moletom foi a categoria com maior volume de unidades vendidas em 16 dos 17 estados analisados, enquanto Calças liderou no Acre, com 146 unidades contra 143 unidades de Moletom.**
+A principal pergunta de negócio também foi respondida: **Moletom lidera em 15 dos 17 estados analisados. As exceções são Acre (AC), onde Calças lidera com 146 unidades contra 143 de Moletom, e Amapá (AP), onde Camisetas lidera com 532 unidades contra 416 de Moletom.**
 
 Esses resultados fornecem uma visão consolidada do comportamento comercial da base e servem como fundamento para a apresentação dos indicadores e recomendações de negócio no dashboard final.
